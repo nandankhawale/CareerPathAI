@@ -1,0 +1,207 @@
+{"job_title":"Admin Big Data","skills":["Hadoop","Spark","Mapreduce","Data Lakes","Data Warehousing","Big Data Architecture","Nosql","Data Modeling","Etl","Cloud Computing","Aws","Azure","Data Governance","Security"]}
+{"job_title":"Ansible Operations Engineer","skills":["Ansible","Linux","Automation","Cloud Platforms","Ci\/Cd","Infrastructure As Code","Kubernetes","Docker","Aws","Terraform","Python","Scripting","Networking"]}
+{"job_title":"Artifactory Administrator","skills":["Artifactory","Ci\/Cd","Jenkins","Docker","Maven","Gradle","Build Automation","Version Control","Git","Cloud Computing","Linux","Jfrog Cli"]}
+{"job_title":"Artificial Intelligence \/ Machine Learning Engineer","skills":[]}
+{"job_title":"Artificial Intelligence \/ Machine Learning Leader","skills":["Ai Strategy","Machine Learning","Team Management","Project Management","Cloud Computing","Data Science","Deep Learning","Communication","Budgeting","Stakeholder Management"]}
+{"job_title":"Artificial Intelligence \/ Machine Learning Sr.Leader","skills":["Ai Strategy","Machine Learning","Team Management","Project Management","Cloud Computing","Data Science","Deep Learning","Communication","Budgeting","Stakeholder Management","Innovation","Mentoring"]}
+{"job_title":"Artificial Intelligence Architect","skills":["Ai Architecture","Machine Learning","Cloud Computing","Data Science","Deep Learning","System Design","Aws","Azure","Scalability","Security","Model Deployment"]}
+{"job_title":"Artificial Intelligence Researcher","skills":["Machine Learning","Deep Learning","Research Methods","Python","Tensorflow","Pytorch","Data Analysis","Statistical Analysis","Algorithm Design","Scientific Writing"]}
+{"job_title":"Big Data Architect","skills":["Hadoop","Spark","Kafka","Mapreduce","Nosql","Data Warehousing","Cloud Computing","Aws","Azure","Data Lakes","Data Modeling","Etl","Data Governance","Security"]}
+{"job_title":"Big Data Engineer","skills":["Hadoop","Spark","Kafka","Sql","Nosql","Python","Java","Scala","Data Pipelines","Etl","Data Warehousing","Cloud Computing"]}
+{"job_title":"Big Data Specialist","skills":["Hadoop","Spark","Data Analysis","Data Visualization","Sql","Nosql","Data Modeling","Etl","Cloud Computing","Data Mining","Statistical Analysis"]}
+{"job_title":"Build And Release Engineer","skills":["Ci\/Cd","Jenkins","Git","Maven","Gradle","Docker","Kubernetes","Automation","Scripting","Linux","Build Tools"]}
+{"job_title":"Build Engineer","skills":["Maven","Gradle","Ant","Jenkins","Ci\/Cd","Git","Build Automation","Scripting","Linux","Version Control"]}
+{"job_title":"Chef Operations Engineer","skills":["Chef","Ruby","Automation","Configuration Management","Linux","Cloud Computing","Aws","Azure","Infrastructure As Code"]}
+{"job_title":"Data Analysts","skills":["Sql","Excel","Data Visualization","Power Bi","Python","R","Statistics","Data Mining","Data Cleansing","Tableau","Etl","Data Modeling"]}
+{"job_title":"Data Architect","skills":["Data Modeling","Data Warehousing","Etl","Sql","Nosql","Data Governance","Cloud Computing","Aws","Azure","Data Integration","Data Security"]}
+{"job_title":"Devops Architect","skills":["Cloud Computing","Aws","Azure","Google Cloud","Docker","Kubernetes","Terraform","Ansible","Ci\/Cd","Automation","Security","Networking"]}
+{"job_title":"Devops Engineer","skills":["Docker","Kubernetes","Ci\/Cd","Aws","Azure","Linux","Terraform","Ansible","Jenkins","Git","Automation","Networking","Python","Scripting","Cloud Computing"]}
+{"job_title":"Elk Engineer","skills":["Elasticsearch","Logstash","Kibana","Data Visualization","Log Management","Linux","Aws","Azure","Networking","Security"]}
+{"job_title":"Gerrit Administrator","skills":["Gerrit","Git","Code Review","Linux","Automation","Scripting","Version Control"]}
+{"job_title":"Jenkins Engineer","skills":["Jenkins","Ci\/Cd","Automation","Groovy","Scripting","Linux","Docker","Kubernetes","Build Automation","Version Control"]}
+{"job_title":"Jira Administrator","skills":["Jira","Atlassian Suite","Agile Methodologies","Workflow Configuration","User Management","Project Management"]}
+{"job_title":"Kubernetes Operations Engineer","skills":["Kubernetes","Docker","Linux","Cloud Computing","Aws","Azure","Networking","Ci\/Cd","Automation","Security"]}
+{"job_title":"Machine Learning Architect","skills":["Machine Learning","Deep Learning","Cloud Computing","Data Science","System Design","Aws","Azure","Scalability","Security","Model Deployment"]}
+{"job_title":"Machine Learning Engineer","skills":["Python","Machine Learning","Tensorflow","Keras","Pytorch","Data Analysis","Deep Learning","Natural Language Processing","Computer Vision","Data Science","Algorithms"]}
+{"job_title":"Operations Engineer","skills":["Linux","Windows Server","Networking","Troubleshooting","Scripting","Automation","Cloud Computing","Monitoring","System Administration"]}
+{"job_title":"Principle Engineer In Artificial Intelligence","skills":["Ai Strategy","Machine Learning","Deep Learning","Data Science","Python","Tensorflow","Cloud Computing","System Design","Mentoring","Innovation"]}
+{"job_title":"Principle Engineer In Big Data","skills":["Big Data Architecture","Hadoop","Spark","Kafka","Data Warehousing","Cloud Computing","Data Governance","Mentoring","Innovation"]}
+{"job_title":"Principle Engineer In Data Analysis","skills":["Data Analysis","Statistics","Sql","Python","Data Visualization","Data Modeling","Mentoring","Innovation"]}
+{"job_title":"Principle Engineer In Machine Learning","skills":["Machine Learning","Deep Learning","Python","Tensorflow","Cloud Computing","Model Deployment","Mentoring","Innovation"]}
+{"job_title":"Production Support Engineer","skills":["Troubleshooting","Linux","Windows Server","Scripting","Networking","Databases","Monitoring","Automation","Itil"]}
+{"job_title":"Puppet Operations Engineer","skills":["Puppet","Ruby","Automation","Configuration Management","Linux","Cloud Computing","Aws","Azure","Infrastructure As Code"]}
+{"job_title":"Senior Build And Release Engineer","skills":["Ci\/Cd","Jenkins","Git","Maven","Gradle","Docker","Kubernetes","Automation","Scripting","Linux","Build Tools","Leadership","Mentoring"]}
+{"job_title":"Senior Build Engineer","skills":["Maven","Gradle","Ant","Jenkins","Ci\/Cd","Git","Build Automation","Scripting","Linux","Version Control","Leadership","Mentoring"]}
+{"job_title":"Senior Devops Engineer","skills":["Docker","Kubernetes","Ci\/Cd","Aws","Azure","Linux","Terraform","Ansible","Jenkins","Git","Automation","Networking","Python","Cloud Computing","Leadership"]}
+{"job_title":"Senior Site Reliability Engineer","skills":["Sre","Monitoring","Kubernetes","Docker","Cloud Platforms","Linux","Automation","Devops","Ci\/Cd","Python","Networking","Leadership"]}
+{"job_title":"Site Reliability Engineer (Kubernetes \u2013 Docker)","skills":["Sre","Kubernetes","Docker","Linux","Cloud Computing","Monitoring","Automation","Ci\/Cd","Networking","Troubleshooting"]}
+{"job_title":"Splunk Engineer","skills":["Splunk","Data Analysis","Log Management","Security","Dashboards","Alerting","Scripting","Linux","Aws","Azure"]}
+{"job_title":".Net Developer","skills":[".Net","C#","Asp.Net","Sql Server","Web Api","Mvc","Entity Framework","Linq","Git","Cloud Computing"]}
+{"job_title":"Accessibility Specialist","skills":["Wcag","Aria","Accessibility Testing","Assistive Technologies","Html","Css","Javascript","Ui\/Ux","Ada Compliance"]}
+{"job_title":"Agile Project Manager","skills":["Agile Methodologies","Scrum","Kanban","Project Management","Stakeholder Management","Communication","Jira","Confluence"]}
+{"job_title":"Android Developer","skills":["Android Sdk","Java","Kotlin","Ui\/Ux Design","Rest Apis","Sql","Android Studio","Firebase","Mobile Development"]}
+{"job_title":"Ansible Automation Engineer","skills":["Ansible","Automation","Infrastructure As Code","Cloud Computing","Aws","Azure","Linux","Python","Scripting","Networking"]}
+{"job_title":"Appdynamics Engineer","skills":["Appdynamics","Application Performance Monitoring","Troubleshooting","Java",".Net","Cloud Computing","Metrics","Alerting"]}
+{"job_title":"Application Security Engineer","skills":["Application Security","Sast","Dast","Penetration Testing","Vulnerability Management","Owasp","Secure Coding","Cloud Security"]}
+{"job_title":"Artifactory Engineer","skills":["Artifactory","Ci\/Cd","Jenkins","Maven","Gradle","Docker","Build Automation","Version Control","Git","Cloud Computing","Linux"]}
+{"job_title":"Aws Devops Engineer","skills":["Aws","Devops","Ci\/Cd","Terraform","Ansible","Cloudformation","Docker","Kubernetes","Linux","Automation","Scripting"]}
+{"job_title":"Aws Solutions Architect","skills":["Aws","Cloud Architecture","Aws Lambda","Ec2","S3","Cloudformation","Devops","Terraform","Security","Cloud Security","Networking"]}
+{"job_title":"Azure Devops Engineer","skills":["Azure","Devops","Ci\/Cd","Terraform","Ansible","Arm Templates","Docker","Kubernetes","Linux","Automation","Scripting"]}
+{"job_title":"Bamboo Engineer","skills":["Bamboo","Ci\/Cd","Atlassian Suite","Automation","Scripting","Build Automation","Version Control","Git"]}
+{"job_title":"Bitbucket Engineer","skills":["Bitbucket","Git","Version Control","Ci\/Cd","Atlassian Suite","Branching Strategies","Code Review"]}
+{"job_title":"Blockchain Developer","skills":["Blockchain","Ethereum","Smart Contracts","Solidity","Cryptocurrency","Distributed Ledger","Consensus Algorithms","Web3","Javascript","Node.Js"]}
+{"job_title":"Business Systems Analyst","skills":["Business Analysis","Requirements Gathering","Process Improvement","Stakeholder Management","Sql","Data Analysis","Uml","Bpmn"]}
+{"job_title":"C# Developer","skills":["C#",".Net","Asp.Net","Sql Server","Web Api","Mvc","Entity Framework","Linq","Git","Cloud Computing"]}
+{"job_title":"Chef Inspec Engineer","skills":["Chef Inspec","Compliance As Code","Automation","Security","Configuration Management","Linux","Cloud Computing"]}
+{"job_title":"Cloud Administrator","skills":["Cloud Computing","Aws","Azure","Google Cloud","Linux","Networking","Security","Automation","Scripting","Virtualization"]}
+{"job_title":"Cloud Architect","skills":["Cloud Architecture","Aws","Azure","Google Cloud","Terraform","Cloud Security","Networking","Microservices","Ci\/Cd","Automation","Docker","Kubernetes"]}
+{"job_title":"Cloud Automation Engineer","skills":["Cloud Computing","Automation","Terraform","Ansible","Python","Scripting","Ci\/Cd","Aws","Azure","Google Cloud"]}
+{"job_title":"Cloud Engineer","skills":["Cloud Computing","Aws","Azure","Google Cloud","Linux","Networking","Security","Automation","Scripting","Virtualization"]}
+{"job_title":"Cloud Network Engineer","skills":["Cloud Networking","Aws","Azure","Google Cloud","Vpc","Subnets","Routing","Security Groups","Firewalls"]}
+{"job_title":"Cloud Security Engineer","skills":["Cloud Security","Iam","Identity And Access Management","Encryption","Aws","Azure","Gcp","Vulnerability Management","Compliance"]}
+{"job_title":"Cnc Programmer","skills":["Cnc Programming","G-Code","Cad\/Cam","Machining","Manufacturing Processes","Blueprints","Toolpath Optimization"]}
+{"job_title":"Coder","skills":["Programming","Algorithms","Data Structures","Problem Solving","Debugging","Software Development"]}
+{"job_title":"Computer Graphics Animator","skills":["3D Animation","2D Animation","Motion Graphics","Adobe Creative Suite","Maya","Blender","Storyboarding","Visual Effects"]}
+{"job_title":"Computer Hardware Engineer","skills":["Hardware Design","Circuit Design","Embedded Systems","Microprocessors","Pcb Design","Testing","Validation"]}
+{"job_title":"Computer Network Architect","skills":["Network Design","Routing","Switching","Security","Lan\/Wan","Tcp\/Ip","Vpn","Firewalls","Cloud Networking"]}
+{"job_title":"Computer Programmer","skills":["Programming","Algorithms","Data Structures","Debugging","Software Development","Python","Java","C++"]}
+{"job_title":"Computer Research Scientist","skills":["Research Methods","Data Analysis","Algorithms","Machine Learning","Publications","Scientific Writing","Programming"]}
+{"job_title":"Computer Systems Analyst","skills":["System Analysis","Requirements Gathering","Data Analysis","Process Improvement","Uml","Sql","Stakeholder Management"]}
+{"job_title":"Confluence Engineer","skills":["Confluence","Atlassian Suite","Collaboration","Documentation","Workflow Configuration","User Management"]}
+{"job_title":"Consul Engineer","skills":["Consul","Service Discovery","Configuration Management","Networking","Automation","Cloud Computing"]}
+{"job_title":"Coverage.Py Engineer","skills":["Coverage.Py","Python","Testing","Code Coverage","Quality Assurance","Ci\/Cd"]}
+{"job_title":"Data Analyst","skills":["Sql","Excel","Data Visualization","Power Bi","Python","R","Statistics","Data Mining","Data Cleansing","Tableau","Etl","Data Modeling"]}
+{"job_title":"Data Engineer","skills":["Sql","Etl","Data Warehousing","Python","Spark","Hadoop","Cloud Computing","Data Pipelines","Data Modeling"]}
+{"job_title":"Data Modeler","skills":["Data Modeling","Sql","Data Warehousing","Database Design","Er Diagrams","Data Governance"]}
+{"job_title":"Data Scientist","skills":["Python","R","Machine Learning","Data Science","Statistics","Sql","Hadoop","Spark","Data Wrangling","Data Visualization","Cloud Computing"]}
+{"job_title":"Database Administrator","skills":["Sql","Database Management","Mysql","Postgresql","Oracle","Database Design","Performance Tuning","Backup And Recovery"]}
+{"job_title":"Datadog Engineer","skills":["Datadog","Monitoring","Alerting","Metrics","Dashboards","Cloud Computing","Linux","Troubleshooting"]}
+{"job_title":"Developer","skills":["Programming","Algorithms","Data Structures","Debugging","Software Development","Python","Java","C++"]}
+{"job_title":"Devops Architect","skills":["Cloud Computing","Aws","Azure","Google Cloud","Docker","Kubernetes","Terraform","Ansible","Ci\/Cd","Automation","Security","Networking"]}
+{"job_title":"Devops Engineer","skills":["Docker","Kubernetes","Ci\/Cd","Aws","Azure","Linux","Terraform","Ansible","Jenkins","Git","Automation","Networking","Python","Scripting","Cloud Computing"]}
+{"job_title":"Devops Manager","skills":["Devops","Team Management","Project Management","Ci\/Cd","Cloud Computing","Automation","Communication","Leadership","Budgeting"]}
+{"job_title":"Devsecops Architect","skills":["Devsecops","Cloud Security","Kubernetes","Docker","Terraform","Ansible","Ci\/Cd","Security Automation","Vulnerability Management"]}
+{"job_title":"Devsecops Engineer","skills":["Devsecops","Kubernetes","Docker","Cloud Security","Penetration Testing","Continuous Security","Ci\/Cd","Aws","Terraform","Vulnerability Scanning"]}
+{"job_title":"Director Of Engineering","skills":["Team Management","Project Management","Software Development","Agile Methodologies","Budgeting","Communication","Leadership"]}
+{"job_title":"Docker Engineer","skills":["Docker","Containerization","Kubernetes","Ci\/Cd","Linux","Cloud Computing","Automation","Networking"]}
+{"job_title":"Elk Engineer","skills":["Elasticsearch","Logstash","Kibana","Data Visualization","Log Management","Linux","Aws","Azure","Networking","Security"]}
+{"job_title":"Embedded Software Engineer","skills":["Embedded C","Rtos","Microcontrollers","Firmware Development","Hardware Design","Communication Protocols","Testing"]}
+{"job_title":"Entry Level Developer","skills":["Javascript","Java","Python","Git","Sql","Html","Css","Data Structures","Algorithms"]}
+{"job_title":"Entry Level Network Engineer","skills":["Networking","Tcp\/Ip","Routing","Switching","Linux","Windows Server","Troubleshooting"]}
+{"job_title":"Entry Level Programmer","skills":["Programming","Algorithms","Data Structures","Python","Java","C++","Debugging"]}
+{"job_title":"Entry Level Software Developer","skills":["Javascript","Java","Python","Git","Sql","Html","Css","Data Structures","Algorithms"]}
+{"job_title":"Entry Level Software Engineer","skills":["Javascript","Java","Python","Git","Sql","Html","Css","Data Structures","Algorithms"]}
+{"job_title":"Entry Level Web Developer","skills":["Html","Css","Javascript","Git","Web Development Fundamentals","Ui\/Ux Basics"]}
+{"job_title":"Envoy Engineer","skills":["Envoy","Service Mesh","Networking","Kubernetes","Docker","Cloud Computing","Traffic Management","Security"]}
+{"job_title":"Falco Engineer","skills":["Falco","Security","Kubernetes","Docker","Cloud Computing","Threat Detection","System Monitoring"]}
+{"job_title":"Fluentd Engineer","skills":["Fluentd","Log Management","Data Collection","Data Processing","Elasticsearch","Kibana","Cloud Computing"]}
+{"job_title":"Fortify Engineer","skills":["Fortify","Static Code Analysis","Security","Vulnerability Management","Software Development","Java",".Net"]}
+{"job_title":"Frameworks Specialist","skills":["React","Angular","Vue.Js","Spring Framework","Django","Framework Development","Javascript","Java","Python"]}
+{"job_title":"Front End Developer","skills":["Javascript","Html","Css","React","Angular","Vue.Js","Node.Js","Typescript","Sass","Ui\/Ux Design"]}
+{"job_title":"Front End Web Developer","skills":["Javascript","Html","Css","React","Angular","Vue.Js","Node.Js","Typescript","Sass","Ui\/Ux Design"]}
+{"job_title":"Full Stack Developer","skills":["Javascript","Html","Css","Node.Js","React","Angular","Express.Js","Mongodb","Sql","Python","Django","Devops","Ci\/Cd"]}
+{"job_title":"Full Stack Java Developer\/Programmer\/Engineer","skills":["Java","Spring Framework","Hibernate","J2Ee","Sql","Rest Apis","Junit","Maven","Git","Jenkins","Cloud Computing","Microservices","Javascript","Html","Css","React"]}
+{"job_title":"Full Stack Python Developer\/Programmer\/Engineer","skills":["Python","Django","Flask","Rest Apis","Sql","Data Structures","Algorithms","Cloud Computing","Linux","Docker","Git","Javascript","Html","Css","React"]}
+{"job_title":"Game Developer","skills":["Unity","C++","Game Design","Game Engines","C#","Vr Development","Javascript","Unreal Engine"]}
+{"job_title":"Gcp Devops Engineer","skills":["Google Cloud","Devops","Ci\/Cd","Terraform","Ansible","Docker","Kubernetes","Linux","Automation","Scripting"]}
+{"job_title":"Gerrit Engineer","skills":["Gerrit","Git","Code Review","Linux","Automation","Scripting","Version Control"]}
+{"job_title":"Git Engineer","skills":["Git","Version Control","Branching Strategies","Code Review","Ci\/Cd","Automation","Scripting"]}
+{"job_title":"Github Engineer","skills":["Github","Git","Version Control","Ci\/Cd","Automation","Scripting","Github Actions"]}
+{"job_title":"Gitlab Engineer","skills":["Gitlab","Git","Version Control","Ci\/Cd","Automation","Scripting","Gitlab Ci"]}
+{"job_title":"Gradle Engineer","skills":["Gradle","Build Automation","Java","Groovy","Ci\/Cd","Version Control","Git"]}
+{"job_title":"Grafana Engineer","skills":["Grafana","Data Visualization","Monitoring","Alerting","Metrics","Dashboards","Linux","Cloud Computing"]}
+{"job_title":"Groovy Engineer","skills":["Groovy","Scripting","Jenkins","Automation","Java","Build Automation"]}
+{"job_title":"Information Architect","skills":["Information Architecture","Ui\/Ux Design","User Research","Wireframing","Prototyping","Content Strategy"]}
+{"job_title":"Information Security Analyst","skills":["Security","Network Security","Firewalls","Ids\/Ips","Vulnerability Management","Penetration Testing","Security Auditing"]}
+{"job_title":"Interaction Designer","skills":["Interaction Design","Ui\/Ux Design","Prototyping","User Research","Wireframing","Usability Testing"]}
+{"job_title":"Ios Developer","skills":["Swift","Objective-C","Ios Sdk","Xcode","Ui\/Ux Design","Rest Apis","Sql","Mobile Development"]}
+{"job_title":"Istio Engineer","skills":["Istio","Service Mesh","Kubernetes","Docker","Cloud Computing","Networking","Traffic Management","Security"]}
+{"job_title":"It Manager","skills":["Project Management","Team Leadership","Agile Methodologies","Budgeting","It Infrastructure","Networking","Cloud Computing","Cybersecurity"]}
+{"job_title":"Jacoco Engineer","skills":["Jacoco","Code Coverage","Java","Testing","Quality Assurance","Ci\/Cd"]}
+{"job_title":"Java Developer","skills":["Java","Spring Framework","Hibernate","J2Ee","Sql","Rest Apis","Junit","Maven","Git","Jenkins","Cloud Computing","Microservices"]}
+{"job_title":"Javascript Developer","skills":["Javascript","Html","Css","React","Angular","Vue.Js","Node.Js","Typescript","Sass","Ui\/Ux Design"]}
+{"job_title":"Jenkins Engineer","skills":["Jenkins","Ci\/Cd","Automation","Groovy","Scripting","Linux","Docker","Kubernetes","Build Automation","Version Control"]}
+{"job_title":"Jira Engineer","skills":["Jira","Atlassian Suite","Agile Methodologies","Workflow Configuration","User Management","Project Management"]}
+{"job_title":"Jr Developer","skills":["Javascript","Java","Python","Git","Sql","Html","Css","Data Structures","Algorithms"]}
+{"job_title":"Junior Developer","skills":["Javascript","Java","Python","Git","Sql","Html","Css","Data Structures","Algorithms"]}
+{"job_title":"Junior Front End Developer","skills":["Javascript","Html","Css","React","Vue.Js","Git","Ui\/Ux Basics"]}
+{"job_title":"Junior Ios Developer","skills":["Swift","Objective-C","Ios Sdk","Xcode","Ui\/Ux Basics","Git"]}
+{"job_title":"Junior Software Developer","skills":["Javascript","Java","Python","Git","Sql","Html","Css","Data Structures","Algorithms"]}
+{"job_title":"Junior Software Engineer","skills":["Javascript","Java","Python","Git","Sql","Html","Css","Data Structures","Algorithms"]}
+{"job_title":"Junior Web Developer","skills":["Html","Css","Javascript","Git","Web Development Fundamentals","Ui\/Ux Basics"]}
+{"job_title":"Junit Engineer","skills":["Junit","Java","Testing","Unit Testing","Test Automation","Ci\/Cd"]}
+{"job_title":"Kubernetes Administrator","skills":["Kubernetes","Docker","Linux","Cloud Computing","Aws","Azure","Networking","Ci\/Cd","Automation","Security"]}
+{"job_title":"Kubernetes Engineer","skills":["Kubernetes","Docker","Linux","Cloud Computing","Aws","Azure","Networking","Ci\/Cd","Automation","Security"]}
+{"job_title":"Machine Learning Engineer","skills":["Python","Machine Learning","Tensorflow","Keras","Pytorch","Data Analysis","Deep Learning","Natural Language Processing","Computer Vision","Data Science","Algorithms"]}
+{"job_title":"Maven Engineer","skills":["Maven","Java","Build Automation","Dependency Management","Ci\/Cd","Version Control","Git"]}
+{"job_title":"Micro Services \/ Api Lead Designer","skills":["Microservices","Api Design","Rest Apis","Soa","Cloud Computing","Java","Python","Security"]}
+{"job_title":"Mobile App Developer","skills":["Android Sdk","Java","Kotlin","Ios","Swift","Objective-C","React Native","Flutter","Mobile Development","Ui\/Ux Design"]}
+{"job_title":"Mobile Application Developer","skills":["Android Sdk","Java","Kotlin","Ios","Swift","Objective-C","React Native","Flutter","Mobile Development","Ui\/Ux Design"]}
+{"job_title":"Mulesoft Developer","skills":["Mulesoft","Anypoint Platform","Api Development","Integration","Java","Rest Apis","Soa"]}
+{"job_title":"Nagios Engineer","skills":["Nagios","Monitoring","Linux","Scripting","Alerting","System Administration","Networking"]}
+{"job_title":"Network And Systems Administrator","skills":["Networking","Linux","Windows Server","Troubleshooting","Scripting","Automation","System Administration"]}
+{"job_title":"Network Engineer","skills":["Tcp\/Ip","Lan\/Wan","Routing","Switching","Firewalls","Vpn","Cisco","Security","Networking Protocols"]}
+{"job_title":"New Grad Software Engineer","skills":["Javascript","Java","Python","Git","Sql","Html","Css","Data Structures","Algorithms"]}
+{"job_title":"New Relic Engineer","skills":["New Relic","Application Performance Monitoring","Troubleshooting","Java",".Net","Cloud Computing","Metrics","Alerting"]}
+{"job_title":"Nexus Engineer","skills":["Nexus","Artifact Repository","Maven","Gradle","Docker","Ci\/Cd","Build Automation"]}
+{"job_title":"Nomad Engineer","skills":["Nomad","Container Orchestration","Docker","Linux","Cloud Computing","Automation","Networking"]}
+{"job_title":"Notary Engineer","skills":["Notary","Security","Docker","Container Security","Cryptography","Trust Management"]}
+{"job_title":"Octopus Deploy Engineer","skills":["Octopus Deploy","Deployment Automation","Ci\/Cd",".Net","Powershell","Scripting","Cloud Computing"]}
+{"job_title":"Openshift Engineer","skills":["Openshift","Kubernetes","Docker","Linux","Cloud Computing","Ci\/Cd","Automation","Security"]}
+{"job_title":"Openstack Engineer","skills":["Openstack","Cloud Computing","Virtualization","Networking","Linux","Automation","Scripting"]}
+{"job_title":"Oracle Developer","skills":["Oracle","Sql","Pl\/Sql","Database Design","Performance Tuning","Etl"]}
+{"job_title":"Oracle Sql Developer","skills":["Oracle Sql Developer","Sql","Pl\/Sql","Database Development","Performance Tuning","Etl"]}
+{"job_title":"Packer Engineer","skills":["Packer","Infrastructure As Code","Cloud Computing","Automation","Aws","Azure","Google Cloud"]}
+{"job_title":"Php Developer","skills":["Php","Mysql","Laravel","Javascript","Css","Html","Restful Apis","Symfony","Git"]}
+{"job_title":"Powershell Engineer","skills":["Powershell","Scripting","Automation","Windows Server","Cloud Computing","Active Directory"]}
+{"job_title":"Product Manager","skills":["Product Management","Agile Methodologies","User Research","Roadmap Planning","Stakeholder Management","Communication"]}
+{"job_title":"Programmer","skills":["Programming","Algorithms","Data Structures","Debugging","Software Development","Python","Java","C++"]}
+{"job_title":"Programmer Analyst","skills":["Programming","Data Analysis","Requirements Gathering","Sql","Data Modeling","Process Improvement"]}
+{"job_title":"Prometheus Engineer","skills":["Prometheus","Monitoring","Alerting","Metrics","Kubernetes","Docker","Cloud Computing"]}
+{"job_title":"Puppet Engineer","skills":["Puppet","Ruby","Automation","Configuration Management","Linux","Cloud Computing","Aws","Azure","Infrastructure As Code"]}
+{"job_title":"Pytest Engineer","skills":["Pytest","Python","Testing","Unit Testing","Test Automation","Ci\/Cd"]}
+{"job_title":"Python Developer","skills":["Python","Django","Flask","Rest Apis","Sql","Data Structures","Algorithms","Cloud Computing","Linux","Docker","Git"]}
+{"job_title":"Qa Engineer","skills":["Automation Testing","Selenium","Junit","Testng","Ci\/Cd","Python","Git","Jenkins","Test Automation","Agile Testing","Performance Testing"]}
+{"job_title":"React Developer","skills":["Javascript","React","Html","Css","Node.Js","Redux","Ui\/Ux Design","Git"]}
+{"job_title":"Robotics Engineer","skills":["Robotics","C++","Python","Ros","Embedded Systems","Control Systems","Sensors","Actuators"]}
+{"job_title":"Ruby On Rails Developer","skills":["Ruby On Rails","Ruby","Sql","Html","Css","Javascript","Rest Apis","Git"]}
+{"job_title":"Salesforce Developer","skills":["Salesforce","Apex","Visualforce","Lightning","Soql","Salesforce Administration","Rest Apis"]}
+{"job_title":"Search Engine Optimization","skills":["Seo","Keyword Research","On-Page Optimization","Off-Page Optimization","Content Marketing","Analytics"]}
+{"job_title":"Security Specialist","skills":["Security","Network Security","Firewalls","Ids\/Ips","Vulnerability Management","Penetration Testing","Security Auditing"]}
+{"job_title":"Selenium Engineer","skills":["Selenium","Test Automation","Java","Python","Webdriver","Ci\/Cd","Testing Frameworks"]}
+{"job_title":"Senior Ansible Development Engineer","skills":["Ansible","Automation","Infrastructure As Code","Cloud Computing","Aws","Azure","Linux","Python","Scripting","Networking","Leadership"]}
+{"job_title":"Senior Cloud Architect","skills":["Cloud Architecture","Aws","Azure","Google Cloud","Microservices","Kubernetes","Docker","Security","Leadership"]}
+{"job_title":"Senior Devops Architect","skills":["Cloud Computing","Aws","Azure","Google Cloud","Docker","Kubernetes","Terraform","Ansible","Ci\/Cd","Automation","Security","Networking","Leadership"]}
+{"job_title":"Senior Devops Engineer","skills":["Docker","Kubernetes","Ci\/Cd","Aws","Azure","Linux","Terraform","Ansible","Jenkins","Git","Automation","Networking","Python","Cloud Computing","Leadership"]}
+{"job_title":"Senior Devsecops Architect","skills":["Devsecops","Cloud Security","Kubernetes","Docker","Terraform","Ansible","Ci\/Cd","Security Automation","Vulnerability Management","Leadership"]}
+{"job_title":"Senior Sre Architect","skills":["Sre","Monitoring","Kubernetes","Docker","Cloud Platforms","Linux","Automation","Devops","Ci\/Cd","Python","Networking","Leadership"]}
+{"job_title":"Senior Sre Engineer","skills":["Sre","Monitoring","Kubernetes","Docker","Cloud Platforms","Linux","Automation","Devops","Ci\/Cd","Python","Networking","Leadership"]}
+{"job_title":"Sharepoint Developer","skills":["Sharepoint",".Net","C#","Javascript","Powershell","Sharepoint Framework","Rest Apis"]}
+{"job_title":"Software Developer","skills":["Programming","Algorithms","Data Structures","Debugging","Software Development","Python","Java","C++"]}
+{"job_title":"Software Engineer","skills":["Java","C++","Python","Algorithms","Data Structures","Software Design","Git","Jenkins","Ci\/Cd","Cloud Computing"]}
+{"job_title":"Sonarqube Engineer","skills":["Sonarqube","Code Quality","Static Code Analysis","Java",".Net","Security","Ci\/Cd"]}
+{"job_title":"Splunk Engineer","skills":["Splunk","Data Analysis","Log Management","Security","Dashboards","Alerting","Scripting","Linux","Aws","Azure"]}
+{"job_title":"Splunk Enterprise Security Engineer","skills":["Splunk Enterprise Security","Security Information And Event Management (Siem)","Threat Detection","Incident Response","Security Analysis"]}
+{"job_title":"Sql Developer","skills":["Sql","T-Sql","Sql Server","Database Design","Performance Tuning","Etl","Ssrs","Ssis","Data Modeling"]}
+{"job_title":"Sre Architect","skills":["Sre","Cloud Architecture","Kubernetes","Docker","Monitoring","Incident Management","Automation","Ci\/Cd","Networking"]}
+{"job_title":"Sre Engineer","skills":["Sre","Monitoring","Kubernetes","Docker","Cloud Platforms","Linux","Automation","Devops","Ci\/Cd","Python"]}
+{"job_title":"Systems Administrator","skills":["Linux Administration","Windows Server Administration","Networking","Troubleshooting","Scripting","Virtualization"]}
+{"job_title":"Systems Engineer","skills":["Systems Design","Linux Administration","Windows Server Administration","Networking","Cloud Computing"]}
+{"job_title":"Teamcity Engineer","skills":["Teamcity","Ci\/Cd","Build Automation","Version Control","Git"]}
+{"job_title":"Tech Sales Engineer","skills":["Technical Sales","Product Knowledge","Customer Engagement","Networking Technologies"]}
+{"job_title":"Technical Account Manager","skills":["Account Management","Technical Support","Customer Relationship Management (Crm)","Project Management"]}
+{"job_title":"Technical Lead","skills":["Team Leadership","Project Management","Software Development Lifecycle (Sdlc)","Agile Methodologies"]}
+{"job_title":"Terraform Engineer","skills":["Terraform","Infrastructure As Code (Iac)","Aws","Azure","Google Cloud"]}
+{"job_title":"Tfs Engineer","skills":["Tfs (Team Foundation Server)",".Net Development Tools",".Net Framework"]}
+{"job_title":"Twistkock Engineer","skills":[]}
+{"job_title":"Udeploy Engineer","skills":["Udeploy (Urbancode Deploy)","Ci\/Cd","Automation","Deployment Strategies","Version Control"]}
+{"job_title":"Ui Designer","skills":["Ui Design Principles","Wireframing","Prototyping","Adobe Creative Suite","Figma","User Testing"]}
+{"job_title":"Ui Developer","skills":["Html5","Css3","Javascript","Jquery","Responsive Design","Angularjs","Reactjs"]}
+{"job_title":"Unity Developer","skills":["Unity3D Engine","C#","Game Development Principles","3D Modeling","Animation"]}
+{"job_title":"Ux Designer","skills":["User Experience Design Principles","User Research","Wireframing","Prototyping","Usability Testing","Interaction Design"]}
+{"job_title":"Vault Engineer","skills":["Hashicorp Vault","Secrets Management","Encryption","Access Control","Cloud Security"]}
+{"job_title":"Web Designer (Ui\/Ux Designer)","skills":["Ui\/Ux Design","Wireframing","Prototyping","Adobe Creative Suite","Figma"]}
+{"job_title":"Web Developer","skills":["Html5","Css3","Javascript","React","Node.Js","Angularjs","Php"]}
+{"job_title":"Wordpress Developer","skills":["Wordpress","Php","Mysql","Html5","Css3","Javascript"]}
+{"job_title":"Xl Deploy Engineer","skills":["Xl Deploy","Deployment Automation","Ci\/Cd","Version Control"]}
+{"job_title":"Zabbix Engineer","skills":["Zabbix","Monitoring Tools","Alerting Systems","Network Monitoring"]}
